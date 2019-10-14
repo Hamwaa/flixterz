@@ -7,10 +7,18 @@
   background: image_url('gold_scale.png');
 }
 
+.navbar-inverse .navbar-toggler {
+    color: black;
+}
+
+.navbar-inverse .navbar-nav .nav-link {
+    color: black;
+}
+
 .navbar-inverse a.navbar-brand {
   font-family: "Helvetica Neue", Helvetica;
   font-weight: 100;
-  color: white;
+  color: black;
 }
 
 .hero {
